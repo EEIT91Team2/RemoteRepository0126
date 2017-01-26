@@ -24,4 +24,3 @@ public class CustomPrimitiveNumberEditor extends CustomNumberEditor {
 		}
 	}
 }
-//ㄎㄎ

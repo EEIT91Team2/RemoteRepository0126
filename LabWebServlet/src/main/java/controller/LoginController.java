@@ -21,7 +21,7 @@ public class LoginController {
 	private CustomerService customerService;
 	@RequestMapping(method={RequestMethod.GET, RequestMethod.POST})
 	public String get(String username, String password, Model model) {
-//ㄎㄎ
+	
 //驗證資料
 		Map<String, String> errors = new HashMap<String, String>();
 		model.addAttribute("errors", errors);
@@ -49,3 +49,5 @@ public class LoginController {
 		}
 	}
 }
+//HAHAHA 
+//OxO
