@@ -11,9 +11,34 @@
 <body>
 
 <h3>Welcome ${user.custid}</h3>
+<<<<<<< HEAD
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
+=======
+<h3>Welcome2 ${user.custid}</h3>
+<h3>Welcome3 ${user.custid}</h3>
+<h3>Welcome4 ${user.custid}</h3>
+<<<<<<< HEAD
+<h3>Welcome5 ${user.custid}</h3>
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+
+=======
+<h3>Welcome5 ${user.custid}</h3>>
+<h3>Welcome6 ${user.custid}</h3>
+>>>>>>> branch 'master' of https://github.com/EEIT91Team2/RemoteRepository0126.git
+
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+
+
+>>>>>>> branch 'master' of https://github.com/EEIT91Team2/RemoteRepository0126.git
 </body>
 </html>
