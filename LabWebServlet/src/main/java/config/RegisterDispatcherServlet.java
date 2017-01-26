@@ -5,7 +5,8 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 public class RegisterDispatcherServlet extends AbstractAnnotationConfigDispatcherServletInitializer {
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
-		int a=1;
+		int a=1,b=2;
+		
 		return null;
 	}
 	@Override
